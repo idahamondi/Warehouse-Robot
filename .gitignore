@@ -1,0 +1,58 @@
+# Arduino IDE files
+*. hex
+*.elf
+*.eep
+*.bin
+*.lst
+*.map
+*.sym
+*.lss
+*.com
+*.srec
+*.cpp~ 
+*.c~
+*.h~
+*.o
+*.d
+*.core
+*.a
+*.ar
+*.dylib
+*.so
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+Build/
+
+# Arduino IDE folders
+.vscode/
+.settings/
+.idea/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# User-specific files
+*.prefs
+*.user
+
